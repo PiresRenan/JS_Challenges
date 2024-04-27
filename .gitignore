@@ -1,0 +1,27 @@
+# Arquivos gerados automaticamente
+/node_modules
+/.pnp
+.pnp.js
+
+# Arquivos de build
+/build
+/dist
+
+# Arquivos de configuração locais
+.env.local
+.env.*.local
+
+# Arquivos de cache e logs
+/.cache
+/logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências específicas do sistema operacional
+/.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.swp
+*~
